@@ -131,7 +131,6 @@ The official documentation for judging:
 ## Future Implementations (Planned Upgrades)
 - **Scissor lift under basket** to raise basket to debris bin height for consistent dumping
 - **Rubber-band rotating intake** for faster automatic pickup of debris and cubes
-- Optional: PWM speed control, dead-man stop failsafe, and macro commands for pickup/dump sequences
 
 
 ---
