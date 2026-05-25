@@ -20,7 +20,7 @@ This repo contains:
 
 ## Submission Video (YouTube)
 **Official application/submission video (≤ 3 minutes):**  
- **YouTube Link:** 
+ **YouTube Link:** https://youtu.be/bjkdxhQIA2E?si=Tjy7cpMIQIa94cFR
  **Video Title Format:** `GENIUS Robotics_2026_KAD_Ballers` 
 
 ---
