@@ -2,9 +2,9 @@
 
 A tele-operated, four-wheel mecanum robot built by Team K.A.D Ballers for the GENIUS Olympiad robotics competition (GENIUS Robotics, Genie Firefighter 2026 game). The robot's chassis and mechanical parts are fully 3D printed in PETG, and it is driven over Bluetooth, using a three-servo manipulator to clear debris and place water gel cubes in the game's fire zone.
 
-![Platform](https://img.shields.io/badge/Platform-Arduino%20Nano-blue)
-![Drive](https://img.shields.io/badge/Drive-4x%20Mecanum-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![Platform](https://img.shields.io/badge/Platform-Arduino%20Nano-blue)](Code/mecanumwheelrobot)
+[![Drive](https://img.shields.io/badge/Drive-4x%20Mecanum-orange)](3D%20Models)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Result
 
