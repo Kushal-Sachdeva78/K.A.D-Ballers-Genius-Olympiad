@@ -1,4 +1,9 @@
 # K.A.D Ballers: Genie Firefighter Robot
+Phone-driven mecanum robot built for the GENIUS Olympiad (finalist): Arduino code, 3D models and build photos. For student robotics teams.
+```bash
+git clone https://github.com/Kushal-Sachdeva78/K.A.D-Ballers-Genius-Olympiad
+```
+<!-- DEMO: add a 5-10 s GIF of the robot driving, save as docs/demo.gif, then replace this line with ![robot demo](docs/demo.gif) -->
 
 A tele-operated, four-wheel mecanum robot built by Team K.A.D Ballers for the GENIUS Olympiad robotics competition (GENIUS Robotics, Genie Firefighter 2026 game). The robot's chassis and mechanical parts are fully 3D printed in PETG, and it is driven over Bluetooth, using a three-servo manipulator to clear debris and place water gel cubes in the game's fire zone.
 
